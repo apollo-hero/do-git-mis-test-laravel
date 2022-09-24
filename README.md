@@ -25,3 +25,5 @@ Please create another endpoint to edit existing post. It should disallow editing
 
 
 Please remember to commit when you are done.  I don’t expect that you can do everything in an hour.
+
+After you commit please create a PR to the base repo. 
